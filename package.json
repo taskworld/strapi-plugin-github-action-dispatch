@@ -1,6 +1,6 @@
 {
   "name": "strapi-plugin-github-action-dispatch",
-  "version": "0.0.0-dev",
+  "version": "1.0.0",
   "description": "A strapi plugin to manually trigger github actions from admin panel",
   "keywords": [
     "strapi",
